@@ -5,7 +5,7 @@
 I started programming Python in 2020 so I entered the world of programming; At the beginning of 2021, when I had acquired skills, I started teaching Python, and in the summer of that year, I became acquainted with the Bootkamp of maktab Sharif, and by participating in the Django course, I was able to develop my skills and talents.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihajiali&theme=solarized-light&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihajiali&theme=moltack&show_icons=true)
 
 Skills: Python - Django - Rest Full API - JS - Net Work - HTML - CSS - Bootstrap - WordPress(CMS)
 
