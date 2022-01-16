@@ -6,4 +6,4 @@ my name is Ali Hajiali from Iran 😍
 my personal website is : https://alihajiali.ir
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihajiali&theme=shades-of-purple&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihajiali&theme=solarized-light&show_icons=true)
