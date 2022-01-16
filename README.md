@@ -1,4 +1,4 @@
-### Hi there 👋, Ali HajiAli
+### Hi there 👋, My name is Ali HajiAli
 ![](https://pileh.art/wp-content/uploads/2020/08/contact-us.gif)
 
 I started programming Python in 2020 so I entered the world of programming; At the beginning of 2021, when I had acquired skills, I started teaching Python, and in the summer of that year, I became acquainted with the Bootkamp of maktab Sharif, and by participating in the Django course, I was able to develop my skills and talents.
