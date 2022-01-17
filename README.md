@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Ali HajiAli
 #### I'm a Python Developer
-![I'm a Python Developer](https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif)
+![I'm a Python Developer](https://drive.google.com/uc?export=download&id=1TAmmPTMJi1ESeuZ4UP2CCBSS8FjSACgb)
 
 I started programming Python in 2020 so I entered the world of programming; At the beginning of 2021, when I had acquired skills, I started teaching Python, and in the summer of that year, I became acquainted with the Bootkamp of maktab Sharif, and by participating in the Django course, I was able to develop my skills and talents.
 
